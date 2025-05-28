@@ -1,6 +1,4 @@
-Sure! Here's your updated `README.md` **with the license part removed** and everything else cleaned up for a sharp, professional look:
 
----
 
 # **Smart Email Auto-Responder (SmartReply AI)**
 
